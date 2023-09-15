@@ -8,7 +8,7 @@ public class NivelEntityConfig : IEntityTypeConfiguration<Nivel>
     {
         builder.ToTable("Nivel");
         builder.HasKey(n=>n.Id);
-        builder.Property(n=> n.Name)
+        builder.Property(n=> n.Nome)
                .HasColumnType("varchar(80)")
                .IsRequired();
 

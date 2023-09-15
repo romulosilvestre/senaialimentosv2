@@ -19,6 +19,7 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #FFF0EA;
 }
 
 ul li{
@@ -27,3 +28,8 @@ ul li{
 .logo{
    margin-top:-100px;
 }
+
+input{
+   background-color: #F5CAB8 ;
+}
+

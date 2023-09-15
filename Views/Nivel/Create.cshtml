@@ -3,8 +3,10 @@
 @ViewData["title"]
 <div>
     <form method="post">
-          nome <input asp-for="Name" type="text">
-          <button type="submit"> Cadastrar </button>
+          nome <input asp-for="Nome" type="text">
+          <button type="submit" style="background-color: #FF8C00;"> 
+             @ViewData["TitleButton"]
+          </button>
     </form>  
 
 </div>
