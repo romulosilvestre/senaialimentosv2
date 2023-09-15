@@ -1,11 +1,11 @@
 @model ListaNivelViewModel
 
 <h1 style="color:#FC8A58;">@ViewData["TipoConta"]</h1>
-
- @foreach (var item in Model.Niveis)
+<div class="row ">
+@foreach (var item in Model.Niveis)
 {
-    <div class="row row-cols-1 row-cols-md-3 g-4">
-        <div class="col">
+    
+        <div class="col-2">
             <div class="card text-center" style="width:219px;height:248px;">
 
                 <img src="~/img/circulo.png" style="margin:0 auto;width:50%;" class="card-img-top rounded-circle" alt="...">
@@ -16,15 +16,22 @@
                 </div>
             </div>
         </div>
-   </div>
-        }
-
-
-        <div>
-
-            Login <input type="text" id="login">
-            Senha <input type="password" id="senha">
-            <a asp-controller="Nivel" asp-action="Index" class="btn btn-sm btn-success"> ENTRAR </a>
-
-        </div>
+    
+}
+</div>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
  
+
+            Login <input type="text" id="login" class="form-control">
+            Senha <input type="password" id="senha" class="form-control">
+            <a asp-controller="Nivel" asp-action="Index" class="btn btn-sm btn-success" style="background-color: #FF8C00;"> ENTRAR </a>
+    
+    </div>
+</div>
+
+<div>
+
+
+
+</div>
