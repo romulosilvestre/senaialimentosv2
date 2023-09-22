@@ -7,7 +7,7 @@ public class AppDbContext : DbContext
     public DbSet<Nivel> Niveis => Set<Nivel>();//representa a tabela
     protected override void OnConfiguring(DbContextOptionsBuilder builder)
     {
-        builder.UseSqlServer("Server=LAB-F08-28;Database=SenaiAlimentos;User Id=sa;Password=senai@123;;TrustServerCertificate=True;");
+        builder.UseSqlServer("Server=LAB-F08-28;Database=SenaiAlimentosV2;User Id=sa;Password=senai@123;;TrustServerCertificate=True;");
     }
     protected override void OnModelCreating(ModelBuilder builder)
     {
