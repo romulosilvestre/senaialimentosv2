@@ -2,6 +2,7 @@ using SenaiAlimentos.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
+namespace SenaiAlimentos.EntityConfigs;
 public class NivelEntityConfig : IEntityTypeConfiguration<Nivel>
 {
     public void Configure(EntityTypeBuilder<Nivel> builder)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7GGyCnxJc15nduxF/RC3qewFP8V3CombOCjkU7xCVX3At46YjBvQ4KD8z7Po85lPqfR+EdwfVmDcoaH6hM9uQ==",
+  "dgSpecHash": "Aczlm5SvnaY7OW4+QQBTcBZHuolpkfLdl4nTV0DIxJPq0nG/bxw0MrHq3rPr7aLxf4KnKGWnrec/XAjGXD5gBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PROFESSOR\\Desktop\\SenaiAlimentosProjetos\\senaialimentosv2\\SenaiAlimentos.csproj",
+  "projectFilePath": "C:\\Users\\PROFESSOR\\Desktop\\senaialimentacaov3\\senaialimentosv2\\SenaiAlimentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PROFESSOR\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\PROFESSOR\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

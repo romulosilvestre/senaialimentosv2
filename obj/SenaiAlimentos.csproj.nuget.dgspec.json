@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PROFESSOR\\Desktop\\SenaiAlimentosProjetos\\senaialimentosv2\\SenaiAlimentos.csproj": {}
+    "C:\\Users\\PROFESSOR\\Desktop\\senaialimentacaov3\\senaialimentosv2\\SenaiAlimentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PROFESSOR\\Desktop\\SenaiAlimentosProjetos\\senaialimentosv2\\SenaiAlimentos.csproj": {
+    "C:\\Users\\PROFESSOR\\Desktop\\senaialimentacaov3\\senaialimentosv2\\SenaiAlimentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PROFESSOR\\Desktop\\SenaiAlimentosProjetos\\senaialimentosv2\\SenaiAlimentos.csproj",
+        "projectUniqueName": "C:\\Users\\PROFESSOR\\Desktop\\senaialimentacaov3\\senaialimentosv2\\SenaiAlimentos.csproj",
         "projectName": "SenaiAlimentos",
-        "projectPath": "C:\\Users\\PROFESSOR\\Desktop\\SenaiAlimentosProjetos\\senaialimentosv2\\SenaiAlimentos.csproj",
+        "projectPath": "C:\\Users\\PROFESSOR\\Desktop\\senaialimentacaov3\\senaialimentosv2\\SenaiAlimentos.csproj",
         "packagesPath": "C:\\Users\\PROFESSOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PROFESSOR\\Desktop\\SenaiAlimentosProjetos\\senaialimentosv2\\obj\\",
+        "outputPath": "C:\\Users\\PROFESSOR\\Desktop\\senaialimentacaov3\\senaialimentosv2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
